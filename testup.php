@@ -1,6 +1,6 @@
 <?php
 define('LINE_API_URL'  ,'https://notify-api.line.me/api/notify');
-define('LINE_API_TOKEN','トークン');
+define('LINE_API_TOKEN','nGhjWZFBGjdGCfXxCJRKijEWUWHyanAnBwp3gzmGdBf');
 
 function post_message($message){
 
